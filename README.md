@@ -15,6 +15,8 @@
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byybick1127@gmail.com)](mailto:byybick1127@gmail.com)
- 
+<br>byybick1127@gmail.com
+<br><br>
 <a href="mailto:byybick1@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:byybick1@naver.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
+ <br>byybick1@naver.com
 </div>
