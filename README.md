@@ -1,4 +1,5 @@
-<h3 align="center">🛠 Technology Stack 🛠</h3>
+<br>
+<h3 align="center"> Technology Stack </h3>
 <h4 align="center">Techs that I've used at least once.</h4>
 
 <div align="center">
@@ -12,12 +13,10 @@
 <br><br>
 
 
-<h3 align="center">📧 Contact Me 📧</h3>
+<h3 align="center"> Contact Me </h3>
 <div align="center">
+<a href="mailto:byybick1@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp
+<a href="mailto:byybick1127@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+<a href="https://www.instagram.com/hye1imnnu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp
 
-
-byybick1@naver.com
-<br>
-byybick1127@gmail.com
-<br>
 </div>
