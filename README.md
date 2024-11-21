@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800px" src="https://github.com/HYELIM-PARK/HYELIM-PARK/hyelim.gif" />
+  <img width="800px" src="https://github.com/user-attachments/assets/fb457ee3-4de7-4e09-9dab-aea4ff9da0ce" />
   <img src="https://github-readme-stats.vercel.app/api?username=HYELIM-PARK&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYELIM-PARK&layout=compact" />
 </div>
