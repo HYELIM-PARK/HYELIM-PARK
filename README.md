@@ -1,6 +1,5 @@
 <div align="center">
-<!--   <img width="800px" src="https://github.com/user-attachments/assets/6e781cc3-224a-460c-abef-a357c307eb1e" /> -->
-  <img width="800px" src="https://github.com/user-attachments/assets/d5f5c5c9-4a88-47cd-b22e-8f23a6301a97"/>
+  <img width="800px" src="https://github.com/user-attachments/assets/55191e0c-9e93-4439-83c0-6f7127af71a1"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=HYELIM-PARK&hide=contribs,prs&show_icons=true&theme=highcontrast" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYELIM-PARK&layout=compact" />
