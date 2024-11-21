@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="800px" src="https://github.com/user-attachments/assets/fb457ee3-4de7-4e09-9dab-aea4ff9da0ce" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HYELIM-PARK&show_icons=true&theme=radical" />
+  <img width="800px" src="https://github.com/user-attachments/assets/ce99299a-35d8-4baf-a3d3-3a30355c2cdd" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=HYELIM-PARK&hide=contribs,prs&show_icons=true&theme=highcontrast" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYELIM-PARK&layout=compact" />
 </div>
 <br>
