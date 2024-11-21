@@ -1,8 +1,8 @@
 <div align="center">
   <img width="800px" src="https://github.com/user-attachments/assets/55191e0c-9e93-4439-83c0-6f7127af71a1"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=HYELIM-PARK&hide=contribs,prs&show_icons=true&theme=highcontrast" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYELIM-PARK&layout=compact" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=HYELIM-PARK&hide=contribs,prs&show_icons=true&theme=highcontrast" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYELIM-PARK&layout=compact" /> -->
 </div>
 <br>
 <h3 align=center>:hammer: Technology Stack :hammer:</h3>
